@@ -1,0 +1,12 @@
+print("Dataset shape:", df.shape)
+print(df.head())
+print(df.info())
+print(df.describe())
+print(df.isnull().sum())
+df['approved'].mean()
+
+
+
+evaluation metrics plot
+pair plot
+

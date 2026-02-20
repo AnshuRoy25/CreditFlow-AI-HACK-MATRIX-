@@ -1,0 +1,602 @@
+[
+  {
+    "id": 1,
+    "sender": "HDFCBK",
+    "message": "Rs.45,000.00 credited to your A/c XX1234 on 01-01-2026 by NEFT. Avl Bal:Rs.52,340.18. Call 18002586161 for queries.",
+    "timestamp": "2026-01-01T09:14:22"
+  },
+  {
+    "id": 2,
+    "sender": "TM-SWIGGY",
+    "message": "Your Swiggy order #SW8821934 has been placed! Track your order in the app. Estimated delivery: 35 mins.",
+    "timestamp": "2026-01-01T13:02:45"
+  },
+  {
+    "id": 3,
+    "sender": "HDFCBK",
+    "message": "Alert: Rs.349.00 debited from A/c XX1234 via UPI on 01-01-2026. Info: SWIGGY. Avl Bal:Rs.51,991.18.",
+    "timestamp": "2026-01-01T13:03:10"
+  },
+  {
+    "id": 4,
+    "sender": "VM-BSNLUP",
+    "message": "Dear Customer, your BSNL broadband bill of Rs.699 for Jan 2026 is due on 10-01-2026. Pay now to avoid interruption.",
+    "timestamp": "2026-01-02T10:30:00"
+  },
+  {
+    "id": 5,
+    "sender": "AD-AMAZON",
+    "message": "Exciting deals just for you! Up to 70% off on electronics this weekend. Shop now on Amazon. Reply STOP to opt out.",
+    "timestamp": "2026-01-02T11:00:00"
+  },
+  {
+    "id": 6,
+    "sender": "HDFCBK",
+    "message": "Alert: Rs.1,200.00 debited from A/c XX1234 via UPI on 02-01-2026. Info: PHONEPE/ELECTRICITY. Avl Bal:Rs.50,791.18.",
+    "timestamp": "2026-01-02T15:22:33"
+  },
+  {
+    "id": 7,
+    "sender": "TM-IRCTC",
+    "message": "Booking Confirmed! PNR: 4521896730. Train: 12951 MMCT RAJDHANI. Date: 15-01-2026. From: NDLS To: MMCT. Coach: A1 Berth: 32.",
+    "timestamp": "2026-01-03T08:45:12"
+  },
+  {
+    "id": 8,
+    "sender": "HDFCBK",
+    "message": "Alert: Rs.2,450.00 debited from A/c XX1234 via UPI on 03-01-2026. Info: IRCTC. Avl Bal:Rs.48,341.18.",
+    "timestamp": "2026-01-03T08:46:00"
+  },
+  {
+    "id": 9,
+    "sender": "AD-MYNTRA",
+    "message": "Myntra End of Reason Sale LIVE! Flat 50-80% off on top brands. Shop now before stocks run out!",
+    "timestamp": "2026-01-03T09:00:00"
+  },
+  {
+    "id": 10,
+    "sender": "VM-AIRTEL",
+    "message": "Dear Anshu, your Airtel postpaid bill of Rs.499 for Dec 2025 is due on 07-01-2026. Pay via Airtel Thanks app.",
+    "timestamp": "2026-01-04T10:00:00"
+  },
+  {
+    "id": 11,
+    "sender": "HDFCBK",
+    "message": "Your HDFC Bank Credit Card XX5678 statement is ready. Total due: Rs.9,800. Min due: Rs.1,000. Due date: 15-01-2026.",
+    "timestamp": "2026-01-05T08:00:00"
+  },
+  {
+    "id": 12,
+    "sender": "TM-ZOMATO",
+    "message": "Your Zomato order from Domino's Pizza is confirmed! Order #ZM4492018. Arriving in 40 minutes.",
+    "timestamp": "2026-01-05T20:15:30"
+  },
+  {
+    "id": 13,
+    "sender": "HDFCBK",
+    "message": "Alert: Rs.650.00 debited from A/c XX1234 via UPI on 05-01-2026. Info: ZOMATO. Avl Bal:Rs.47,691.18.",
+    "timestamp": "2026-01-05T20:16:00"
+  },
+  {
+    "id": 14,
+    "sender": "AD-HDFCBK",
+    "message": "Pre-approved Personal Loan offer for you! Get up to Rs.5,00,000 at 10.75% p.a. Apply now on NetBanking. T&C apply.",
+    "timestamp": "2026-01-06T09:30:00"
+  },
+  {
+    "id": 15,
+    "sender": "HDFCBK",
+    "message": "Alert: Rs.499.00 debited from A/c XX1234 via UPI on 07-01-2026. Info: AIRTEL POSTPAID. Avl Bal:Rs.47,192.18.",
+    "timestamp": "2026-01-07T11:05:44"
+  },
+  {
+    "id": 16,
+    "sender": "VM-UPPCL",
+    "message": "UPPCL: Your electricity bill for A/c 1234567890 is Rs.1,320 for Jan 2026. Due date: 15-01-2026. Pay at uppcl.org or PayTM.",
+    "timestamp": "2026-01-07T12:00:00"
+  },
+  {
+    "id": 17,
+    "sender": "TM-PAYTM",
+    "message": "Payment of Rs.1,320 to UPPCL successful via Paytm on 08-01-2026. Txn ID: PTM2026010834512. Avl wallet bal: Rs.240.",
+    "timestamp": "2026-01-08T10:30:22"
+  },
+  {
+    "id": 18,
+    "sender": "HDFCBK",
+    "message": "Alert: Rs.1,320.00 debited from A/c XX1234 via UPI on 08-01-2026. Info: PAYTM/UPPCL. Avl Bal:Rs.45,872.18.",
+    "timestamp": "2026-01-08T10:31:00"
+  },
+  {
+    "id": 19,
+    "sender": "VM-GPAY",
+    "message": "You received Rs.500 from Rahul Sharma on Google Pay. UPI Ref: 302600812345.",
+    "timestamp": "2026-01-08T18:44:10"
+  },
+  {
+    "id": 20,
+    "sender": "HDFCBK",
+    "message": "Rs.500.00 credited to your A/c XX1234 via UPI on 08-01-2026. Info: RAHUL SHARMA. Avl Bal:Rs.46,372.18.",
+    "timestamp": "2026-01-08T18:44:30"
+  },
+  {
+    "id": 21,
+    "sender": "AD-BAJAJFI",
+    "message": "Congratulations! You are eligible for Bajaj Finserv EMI card. Get instant credit up to Rs.2,00,000. Apply: bajajfinserv.in",
+    "timestamp": "2026-01-09T09:00:00"
+  },
+  {
+    "id": 22,
+    "sender": "TM-BOOKMYSH",
+    "message": "Booking confirmed! Movie: Pushpa 2 | Date: 10-Jan-2026 | Time: 6:30 PM | Seats: F12, F13 | PVR Logix Mall. Enjoy!",
+    "timestamp": "2026-01-09T14:20:00"
+  },
+  {
+    "id": 23,
+    "sender": "HDFCBK",
+    "message": "Alert: Rs.820.00 debited from A/c XX1234 via UPI on 09-01-2026. Info: BOOKMYSHOW. Avl Bal:Rs.45,552.18.",
+    "timestamp": "2026-01-09T14:21:00"
+  },
+  {
+    "id": 24,
+    "sender": "VM-BSNLUP",
+    "message": "Dear Customer, payment of Rs.699 towards your BSNL broadband bill received on 10-01-2026. Thank you!",
+    "timestamp": "2026-01-10T09:05:00"
+  },
+  {
+    "id": 25,
+    "sender": "HDFCBK",
+    "message": "Alert: Rs.699.00 debited from A/c XX1234 via UPI on 10-01-2026. Info: BSNL BROADBAND. Avl Bal:Rs.44,853.18.",
+    "timestamp": "2026-01-10T09:06:00"
+  },
+  {
+    "id": 26,
+    "sender": "AD-POLICYBZR",
+    "message": "Your car insurance is expiring soon! Renew now & save up to 70%. Compare 20+ insurers on PolicyBazaar. Call 1800-258-5881.",
+    "timestamp": "2026-01-10T11:00:00"
+  },
+  {
+    "id": 27,
+    "sender": "HDFCBK",
+    "message": "Alert: Rs.250.00 debited from A/c XX1234 via UPI on 11-01-2026. Info: PETROL PUMP/HPCL. Avl Bal:Rs.44,603.18.",
+    "timestamp": "2026-01-11T08:15:00"
+  },
+  {
+    "id": 28,
+    "sender": "VM-SBI",
+    "message": "Dear Customer, your SBI Home Loan EMI of Rs.12,400 is due on 15-01-2026. Please ensure sufficient balance. -SBI",
+    "timestamp": "2026-01-11T10:00:00"
+  },
+  {
+    "id": 29,
+    "sender": "TM-SWIGGY",
+    "message": "Your Swiggy order #SW9031245 from McDonald's has been delivered! Rate your experience.",
+    "timestamp": "2026-01-11T13:50:00"
+  },
+  {
+    "id": 30,
+    "sender": "HDFCBK",
+    "message": "Alert: Rs.420.00 debited from A/c XX1234 via UPI on 11-01-2026. Info: SWIGGY. Avl Bal:Rs.44,183.18.",
+    "timestamp": "2026-01-11T13:51:00"
+  },
+  {
+    "id": 31,
+    "sender": "AD-NYKAA",
+    "message": "Nykaa Sale is LIVE! Upto 50% off on skincare, makeup & more. Free delivery on orders above Rs.499. Shop now!",
+    "timestamp": "2026-01-12T10:00:00"
+  },
+  {
+    "id": 32,
+    "sender": "HDFCBK",
+    "message": "Alert: Rs.1,899.00 debited from A/c XX1234 via UPI on 12-01-2026. Info: AMAZON. Avl Bal:Rs.42,284.18.",
+    "timestamp": "2026-01-12T16:30:00"
+  },
+  {
+    "id": 33,
+    "sender": "VM-HDFCBK",
+    "message": "Your HDFC Bank Credit Card XX5678 payment of Rs.9,800 received on 13-01-2026. Thank you for full payment! Avl credit: Rs.1,50,000.",
+    "timestamp": "2026-01-13T11:20:00"
+  },
+  {
+    "id": 34,
+    "sender": "HDFCBK",
+    "message": "Alert: Rs.9,800.00 debited from A/c XX1234 on 13-01-2026. Info: HDFC CREDITCARD PAYMENT. Avl Bal:Rs.32,484.18.",
+    "timestamp": "2026-01-13T11:21:00"
+  },
+  {
+    "id": 35,
+    "sender": "AD-ZERODHA",
+    "message": "Markets are volatile! Start SIP in index funds from Rs.500/month. Open your Zerodha account today. zerodha.com",
+    "timestamp": "2026-01-13T09:00:00"
+  },
+  {
+    "id": 36,
+    "sender": "HDFCBK",
+    "message": "Alert: Rs.12,400.00 debited from A/c XX1234 on 15-01-2026. Info: SBI HOME LOAN EMI. Avl Bal:Rs.20,084.18.",
+    "timestamp": "2026-01-15T08:00:05"
+  },
+  {
+    "id": 37,
+    "sender": "VM-SBI",
+    "message": "Dear Customer, your SBI Home Loan EMI of Rs.12,400 has been received on 15-01-2026. Outstanding: Rs.8,24,600. -SBI",
+    "timestamp": "2026-01-15T08:05:00"
+  },
+  {
+    "id": 38,
+    "sender": "TM-UBER",
+    "message": "Your Uber trip has ended. Total: Rs.187. Payment via UPI. Rate your driver Ramesh 5 stars if you had a great ride!",
+    "timestamp": "2026-01-15T19:30:00"
+  },
+  {
+    "id": 39,
+    "sender": "HDFCBK",
+    "message": "Alert: Rs.187.00 debited from A/c XX1234 via UPI on 15-01-2026. Info: UBER. Avl Bal:Rs.19,897.18.",
+    "timestamp": "2026-01-15T19:31:00"
+  },
+  {
+    "id": 40,
+    "sender": "AD-FLIPKART",
+    "message": "Big Billion Days is BACK! Exclusive deals on mobiles, laptops & more. Starts 16 Jan. Set reminders now!",
+    "timestamp": "2026-01-15T20:00:00"
+  },
+  {
+    "id": 41,
+    "sender": "HDFCBK",
+    "message": "Alert: Rs.3,200.00 debited from A/c XX1234 via UPI on 16-01-2026. Info: FLIPKART. Avl Bal:Rs.16,697.18.",
+    "timestamp": "2026-01-16T14:22:00"
+  },
+  {
+    "id": 42,
+    "sender": "VM-PHONEPE",
+    "message": "Rs.2,000 transferred successfully from your PhonePe to Priya Mehta. UPI Ref: 601600112233. Bal: Rs.14,697.18.",
+    "timestamp": "2026-01-17T10:00:00"
+  },
+  {
+    "id": 43,
+    "sender": "HDFCBK",
+    "message": "Alert: Rs.2,000.00 debited from A/c XX1234 via UPI on 17-01-2026. Info: PRIYA MEHTA. Avl Bal:Rs.14,697.18.",
+    "timestamp": "2026-01-17T10:01:00"
+  },
+  {
+    "id": 44,
+    "sender": "AD-HDFC",
+    "message": "Refer a friend to HDFC Bank and earn Rs.500 cashback! Share your referral link now. T&C apply.",
+    "timestamp": "2026-01-17T11:00:00"
+  },
+  {
+    "id": 45,
+    "sender": "TM-AMAZON",
+    "message": "Your Amazon order #402-1234567-8901234 has been delivered. Leave a review for your product.",
+    "timestamp": "2026-01-18T16:00:00"
+  },
+  {
+    "id": 46,
+    "sender": "HDFCBK",
+    "message": "Alert: Rs.89.00 debited from A/c XX1234 via UPI on 18-01-2026. Info: SPOTIFY. Avl Bal:Rs.14,608.18.",
+    "timestamp": "2026-01-18T00:01:00"
+  },
+  {
+    "id": 47,
+    "sender": "VM-NETFLIX",
+    "message": "Your Netflix subscription of Rs.649 will auto-renew on 20-01-2026 from your saved card ending XX5678.",
+    "timestamp": "2026-01-18T09:00:00"
+  },
+  {
+    "id": 48,
+    "sender": "HDFCBK",
+    "message": "Alert: Rs.649.00 debited from A/c XX5678 on 20-01-2026. Info: NETFLIX. Avl Bal:Rs.13,959.18.",
+    "timestamp": "2026-01-20T00:01:00"
+  },
+  {
+    "id": 49,
+    "sender": "AD-LENSKART",
+    "message": "Buy 1 Get 1 FREE on eyeglasses! Use code LENS50. Valid till 31 Jan. Shop now at lenskart.com",
+    "timestamp": "2026-01-20T10:00:00"
+  },
+  {
+    "id": 50,
+    "sender": "HDFCBK",
+    "message": "Alert: Rs.500.00 debited from A/c XX1234 via UPI on 20-01-2026. Info: GROWW SIP. Avl Bal:Rs.13,459.18.",
+    "timestamp": "2026-01-20T10:30:00"
+  },
+  {
+    "id": 51,
+    "sender": "VM-GROWW",
+    "message": "SIP investment of Rs.500 in Nifty 50 Index Fund successful for Jan 2026. Units allotted: 0.312. Keep investing!",
+    "timestamp": "2026-01-20T10:31:00"
+  },
+  {
+    "id": 52,
+    "sender": "TM-SWIGGY",
+    "message": "Swiggy Instamart: Your grocery order #SW2031198 is out for delivery! Arriving in 10 mins.",
+    "timestamp": "2026-01-21T19:10:00"
+  },
+  {
+    "id": 53,
+    "sender": "HDFCBK",
+    "message": "Alert: Rs.1,140.00 debited from A/c XX1234 via UPI on 21-01-2026. Info: SWIGGY INSTAMART. Avl Bal:Rs.12,319.18.",
+    "timestamp": "2026-01-21T19:11:00"
+  },
+  {
+    "id": 54,
+    "sender": "VM-AIRTEL",
+    "message": "Airtel: Your mobile recharge of Rs.299 (28 days, 2GB/day) has been successfully processed. Validity starts now.",
+    "timestamp": "2026-01-22T12:00:00"
+  },
+  {
+    "id": 55,
+    "sender": "HDFCBK",
+    "message": "Alert: Rs.299.00 debited from A/c XX1234 via UPI on 22-01-2026. Info: AIRTEL RECHARGE. Avl Bal:Rs.12,020.18.",
+    "timestamp": "2026-01-22T12:01:00"
+  },
+  {
+    "id": 56,
+    "sender": "AD-MAKEMYTRIP",
+    "message": "Monsoon getaway deals! Flights from Rs.1,999. Hotels from Rs.799/night. Book now on MakeMyTrip.",
+    "timestamp": "2026-01-22T14:00:00"
+  },
+  {
+    "id": 57,
+    "sender": "HDFCBK",
+    "message": "Low balance alert: Your A/c XX1234 balance is Rs.12,020.18 which is below Rs.15,000. Please maintain minimum balance.",
+    "timestamp": "2026-01-22T15:00:00"
+  },
+  {
+    "id": 58,
+    "sender": "VM-GPAY",
+    "message": "You received Rs.3,500 from Amit Kumar on Google Pay. UPI Ref: 302601822345. Check your bank for credit.",
+    "timestamp": "2026-01-23T09:30:00"
+  },
+  {
+    "id": 59,
+    "sender": "HDFCBK",
+    "message": "Rs.3,500.00 credited to your A/c XX1234 via UPI on 23-01-2026. Info: AMIT KUMAR. Avl Bal:Rs.15,520.18.",
+    "timestamp": "2026-01-23T09:31:00"
+  },
+  {
+    "id": 60,
+    "sender": "AD-TATACLIQ",
+    "message": "Republic Day Sale! Extra 15% off on fashion, electronics & home. Shop on Tata CLiQ now. Code: REPUBLIC15",
+    "timestamp": "2026-01-23T10:00:00"
+  },
+  {
+    "id": 61,
+    "sender": "HDFCBK",
+    "message": "Alert: Rs.750.00 debited from A/c XX1234 via UPI on 24-01-2026. Info: DMART/GROCERY. Avl Bal:Rs.14,770.18.",
+    "timestamp": "2026-01-24T11:45:00"
+  },
+  {
+    "id": 62,
+    "sender": "VM-HDFCBK",
+    "message": "Your HDFC Bank Credit Card XX5678 statement for Jan 2026 is ready. Total due: Rs.7,200. Min due: Rs.720. Due: 15-02-2026.",
+    "timestamp": "2026-01-25T08:00:00"
+  },
+  {
+    "id": 63,
+    "sender": "TM-RAPIDO",
+    "message": "Your Rapido bike ride is complete. Fare: Rs.62. Paid via UPI. Thanks for riding with us!",
+    "timestamp": "2026-01-25T09:15:00"
+  },
+  {
+    "id": 64,
+    "sender": "HDFCBK",
+    "message": "Alert: Rs.62.00 debited from A/c XX1234 via UPI on 25-01-2026. Info: RAPIDO. Avl Bal:Rs.14,708.18.",
+    "timestamp": "2026-01-25T09:16:00"
+  },
+  {
+    "id": 65,
+    "sender": "AD-CRED",
+    "message": "Hey Anshu! Pay your HDFC credit card bill via CRED and earn 500 coins. Redeem for cashback & vouchers!",
+    "timestamp": "2026-01-25T11:00:00"
+  },
+  {
+    "id": 66,
+    "sender": "HDFCBK",
+    "message": "Alert: Rs.1,500.00 debited from A/c XX1234 via UPI on 26-01-2026. Info: MEDPLUS PHARMACY. Avl Bal:Rs.13,208.18.",
+    "timestamp": "2026-01-26T12:30:00"
+  },
+  {
+    "id": 67,
+    "sender": "VM-ICICIBNK",
+    "message": "Dear Customer, your LIC premium of Rs.8,500 is due on 31-01-2026. Pay via ICICI Bank net banking or branch.",
+    "timestamp": "2026-01-26T10:00:00"
+  },
+  {
+    "id": 68,
+    "sender": "AD-BYJU",
+    "message": "Is your child struggling in Math? Try BYJU's free trial for 15 days. No credit card needed. Call 1800-572-1099.",
+    "timestamp": "2026-01-27T09:00:00"
+  },
+  {
+    "id": 69,
+    "sender": "TM-BIGBASKET",
+    "message": "Your BigBasket order #BB192834012 has been delivered! Total: Rs.2,230. Rate your delivery experience.",
+    "timestamp": "2026-01-27T17:00:00"
+  },
+  {
+    "id": 70,
+    "sender": "HDFCBK",
+    "message": "Alert: Rs.2,230.00 debited from A/c XX1234 via UPI on 27-01-2026. Info: BIGBASKET. Avl Bal:Rs.10,978.18.",
+    "timestamp": "2026-01-27T17:01:00"
+  },
+  {
+    "id": 71,
+    "sender": "VM-HDFCBK",
+    "message": "Reminder: Your HDFC Credit Card XX5678 min due of Rs.720 is due on 15-02-2026. Avoid late fees. Pay now.",
+    "timestamp": "2026-01-28T09:00:00"
+  },
+  {
+    "id": 72,
+    "sender": "HDFCBK",
+    "message": "Alert: Rs.200.00 debited from A/c XX1234 via UPI on 28-01-2026. Info: PETROL PUMP/HPCL. Avl Bal:Rs.10,778.18.",
+    "timestamp": "2026-01-28T08:10:00"
+  },
+  {
+    "id": 73,
+    "sender": "AD-SBI",
+    "message": "SBI YONO: Apply for Personal Loan up to Rs.20 Lakh instantly! 100% digital process. Download YONO app.",
+    "timestamp": "2026-01-28T10:00:00"
+  },
+  {
+    "id": 74,
+    "sender": "HDFCBK",
+    "message": "Alert: Rs.8,500.00 debited from A/c XX1234 via NEFT on 29-01-2026. Info: LIC PREMIUM. Avl Bal:Rs.2,278.18.",
+    "timestamp": "2026-01-29T10:05:00"
+  },
+  {
+    "id": 75,
+    "sender": "VM-LICIND",
+    "message": "LIC of India: Premium of Rs.8,500 received for policy 123456789 on 29-01-2026. Thank you for timely payment.",
+    "timestamp": "2026-01-29T10:10:00"
+  },
+  {
+    "id": 76,
+    "sender": "HDFCBK",
+    "message": "Low balance alert: Your A/c XX1234 balance is Rs.2,278.18 which is below Rs.5,000. Please add funds.",
+    "timestamp": "2026-01-29T10:15:00"
+  },
+  {
+    "id": 77,
+    "sender": "AD-PHONEPE",
+    "message": "Earn up to Rs.200 cashback on your next 3 UPI payments via PhonePe. Offer valid till 31 Jan 2026. T&C apply.",
+    "timestamp": "2026-01-29T11:00:00"
+  },
+  {
+    "id": 78,
+    "sender": "TM-ZOMATO",
+    "message": "Zomato Gold: Your free delivery benefit has been used 8 times this month. Renew your Gold membership to continue.",
+    "timestamp": "2026-01-30T09:00:00"
+  },
+  {
+    "id": 79,
+    "sender": "HDFCBK",
+    "message": "Alert: Rs.180.00 debited from A/c XX1234 via UPI on 30-01-2026. Info: ZOMATO. Avl Bal:Rs.2,098.18.",
+    "timestamp": "2026-01-30T13:20:00"
+  },
+  {
+    "id": 80,
+    "sender": "VM-GPAY",
+    "message": "You received Rs.500 from Mom on Google Pay. UPI Ref: 302603022219. Check your bank for credit.",
+    "timestamp": "2026-01-30T18:00:00"
+  },
+  {
+    "id": 81,
+    "sender": "HDFCBK",
+    "message": "Rs.500.00 credited to your A/c XX1234 via UPI on 30-01-2026. Info: FAMILY TRANSFER. Avl Bal:Rs.2,598.18.",
+    "timestamp": "2026-01-30T18:01:00"
+  },
+  {
+    "id": 82,
+    "sender": "AD-DUNZO",
+    "message": "Get groceries delivered in 19 minutes! First order free on Dunzo. Download now.",
+    "timestamp": "2026-01-30T20:00:00"
+  },
+  {
+    "id": 83,
+    "sender": "HDFCBK",
+    "message": "Rs.45,000.00 credited to your A/c XX1234 on 01-02-2026 by NEFT. Avl Bal:Rs.47,598.18. Call 18002586161 for queries.",
+    "timestamp": "2026-02-01T09:10:00"
+  },
+  {
+    "id": 84,
+    "sender": "VM-AIRTEL",
+    "message": "Dear Anshu, your Airtel postpaid bill of Rs.499 for Jan 2026 is due on 07-02-2026. Pay via Airtel Thanks app.",
+    "timestamp": "2026-02-01T10:00:00"
+  },
+  {
+    "id": 85,
+    "sender": "AD-UPSTOX",
+    "message": "Trade smarter! Open a free Demat account with Upstox & get Rs.500 brokerage voucher. Limited offer. upstox.com",
+    "timestamp": "2026-02-02T09:00:00"
+  },
+  {
+    "id": 86,
+    "sender": "HDFCBK",
+    "message": "Alert: Rs.499.00 debited from A/c XX1234 via UPI on 03-02-2026. Info: AIRTEL POSTPAID. Avl Bal:Rs.47,099.18.",
+    "timestamp": "2026-02-03T11:20:00"
+  },
+  {
+    "id": 87,
+    "sender": "VM-BSNLUP",
+    "message": "Dear Customer, your BSNL broadband bill of Rs.699 for Feb 2026 is due on 10-02-2026. Pay now to avoid interruption.",
+    "timestamp": "2026-02-03T10:30:00"
+  },
+  {
+    "id": 88,
+    "sender": "TM-AMAZON",
+    "message": "Your Amazon order #402-9876543-2109876 for boAt Airdopes 141 has been shipped. Expected delivery: 05 Feb 2026.",
+    "timestamp": "2026-02-04T14:00:00"
+  },
+  {
+    "id": 89,
+    "sender": "HDFCBK",
+    "message": "Alert: Rs.1,299.00 debited from A/c XX1234 via UPI on 04-02-2026. Info: AMAZON. Avl Bal:Rs.45,800.18.",
+    "timestamp": "2026-02-04T14:01:00"
+  },
+  {
+    "id": 90,
+    "sender": "VM-UPPCL",
+    "message": "UPPCL: Your electricity bill for A/c 1234567890 is Rs.1,180 for Feb 2026. Due date: 15-02-2026. Pay at uppcl.org.",
+    "timestamp": "2026-02-05T12:00:00"
+  },
+  {
+    "id": 91,
+    "sender": "AD-HDFC",
+    "message": "Exciting news! HDFC Bank Millennia Credit Card: 5% cashback on online spends. Apply now at hdfcbank.com.",
+    "timestamp": "2026-02-05T10:00:00"
+  },
+  {
+    "id": 92,
+    "sender": "TM-SWIGGY",
+    "message": "Your Swiggy order #SW9912834 from Burger King has been placed! Estimated delivery: 30 mins.",
+    "timestamp": "2026-02-06T20:30:00"
+  },
+  {
+    "id": 93,
+    "sender": "HDFCBK",
+    "message": "Alert: Rs.310.00 debited from A/c XX1234 via UPI on 06-02-2026. Info: SWIGGY. Avl Bal:Rs.45,490.18.",
+    "timestamp": "2026-02-06T20:31:00"
+  },
+  {
+    "id": 94,
+    "sender": "VM-SBI",
+    "message": "Dear Customer, your SBI Home Loan EMI of Rs.12,400 is due on 15-02-2026. Please ensure sufficient balance. -SBI",
+    "timestamp": "2026-02-07T10:00:00"
+  },
+  {
+    "id": 95,
+    "sender": "HDFCBK",
+    "message": "Alert: Rs.499.00 debited from A/c XX1234 via UPI on 07-02-2026. Info: AIRTEL POSTPAID. Avl Bal:Rs.44,991.18.",
+    "timestamp": "2026-02-07T11:10:00"
+  },
+  {
+    "id": 96,
+    "sender": "TM-PAYTM",
+    "message": "Payment of Rs.1,180 to UPPCL successful via Paytm on 08-02-2026. Txn ID: PTM2026020891234. Your electricity is paid.",
+    "timestamp": "2026-02-08T10:10:00"
+  },
+  {
+    "id": 97,
+    "sender": "HDFCBK",
+    "message": "Alert: Rs.1,180.00 debited from A/c XX1234 via UPI on 08-02-2026. Info: PAYTM/UPPCL. Avl Bal:Rs.43,811.18.",
+    "timestamp": "2026-02-08T10:11:00"
+  },
+  {
+    "id": 98,
+    "sender": "AD-AMAZON",
+    "message": "Valentine's Day gifts for your loved ones! Flowers, chocolates, jewellery & more. Shop now on Amazon. Fast delivery.",
+    "timestamp": "2026-02-09T09:00:00"
+  },
+  {
+    "id": 99,
+    "sender": "HDFCBK",
+    "message": "Alert: Rs.699.00 debited from A/c XX1234 via UPI on 10-02-2026. Info: BSNL BROADBAND. Avl Bal:Rs.43,112.18.",
+    "timestamp": "2026-02-10T09:30:00"
+  },
+  {
+    "id": 100,
+    "sender": "VM-BSNLUP",
+    "message": "Dear Customer, payment of Rs.699 towards your BSNL broadband bill received on 10-02-2026. Thank you! -BSNL",
+    "timestamp": "2026-02-10T09:35:00"
+  }
+]

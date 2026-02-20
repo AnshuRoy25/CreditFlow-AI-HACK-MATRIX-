@@ -1,0 +1,602 @@
+[
+  {
+    "id": 1,
+    "from": "alerts@hdfcbank.com",
+    "subject": "Your HDFC Bank Credit Card Statement for December 2025",
+    "body": "Dear Anshu, your HDFC Bank Credit Card XX5678 statement for December 2025 is now available. Total Amount Due: Rs.9,800.00. Minimum Amount Due: Rs.1,000.00. Payment Due Date: 15-01-2026. Please log in to NetBanking to view your full statement and make payment.",
+    "timestamp": "2026-01-05T08:00:00",
+    "type": "financial"
+  },
+  {
+    "id": 2,
+    "from": "noreply@swiggy.in",
+    "subject": "Your Swiggy order from McDonald's is on its way!",
+    "body": "Hi Anshu! Your order #SW9031245 from McDonald's has been confirmed. Items: McVeggie Burger x1, Fries x1, Coke x1. Total: Rs.420. Expected delivery: 30 minutes. Track your order in the app.",
+    "timestamp": "2026-01-11T13:45:00",
+    "type": "non-financial"
+  },
+  {
+    "id": 3,
+    "from": "noreply@sbi.co.in",
+    "subject": "SBI Home Loan EMI Due Reminder - January 2026",
+    "body": "Dear Customer, this is a reminder that your SBI Home Loan EMI of Rs.12,400 is due on 15-01-2026. Loan Account: XXXXX6789. Outstanding Principal: Rs.8,24,600. Please ensure sufficient balance in your linked account XXXX1234 to avoid any penalty charges.",
+    "timestamp": "2026-01-11T10:00:00",
+    "type": "financial"
+  },
+  {
+    "id": 4,
+    "from": "newsletter@amazon.in",
+    "subject": "Today's top deals just for you, Anshu!",
+    "body": "Hi Anshu, check out today's handpicked deals: boAt Airdopes 141 at Rs.1,299 (was Rs.3,999). Redmi Note 13 at Rs.12,999. Up to 60% off on home appliances. Offer valid today only. Shop now at amazon.in",
+    "timestamp": "2026-01-12T09:00:00",
+    "type": "non-financial"
+  },
+  {
+    "id": 5,
+    "from": "noreply@licmail.com",
+    "subject": "LIC Premium Due Notice - Policy No. 123456789",
+    "body": "Dear Policyholder Anshu Kumar, this is to inform you that the premium of Rs.8,500 for your LIC policy No. 123456789 (Jeevan Anand) is due on 31-01-2026. Please pay on time to keep your policy active. You can pay via NEFT, UPI, or at your nearest LIC branch.",
+    "timestamp": "2026-01-15T10:00:00",
+    "type": "financial"
+  },
+  {
+    "id": 6,
+    "from": "bookings@irctc.co.in",
+    "subject": "E-Ticket Booking Confirmation - PNR 4521896730",
+    "body": "Dear Anshu Kumar, your train ticket has been booked successfully. PNR: 4521896730. Train: 12951 Mumbai Rajdhani. Date of Journey: 15-01-2026. From: New Delhi (NDLS) To: Mumbai Central (MMCT). Coach: A1, Berth: 32 (Side Lower). Fare Paid: Rs.2,450.",
+    "timestamp": "2026-01-03T08:45:00",
+    "type": "non-financial"
+  },
+  {
+    "id": 7,
+    "from": "alerts@hdfcbank.com",
+    "subject": "Payment Received - HDFC Credit Card XX5678",
+    "body": "Dear Anshu, we have received a payment of Rs.9,800.00 towards your HDFC Bank Credit Card XX5678 on 13-01-2026. Your total outstanding is now Rs.0.00. Available credit limit: Rs.1,50,000. Thank you for making full payment.",
+    "timestamp": "2026-01-13T11:20:00",
+    "type": "financial"
+  },
+  {
+    "id": 8,
+    "from": "noreply@zomato.com",
+    "subject": "Your Zomato Gold membership is expiring soon",
+    "body": "Hi Anshu, your Zomato Gold membership expires in 3 days. Renew now to keep enjoying: unlimited free deliveries, member-only discounts, priority customer support. Renew at Rs.149/month. Tap here to renew.",
+    "timestamp": "2026-01-14T10:00:00",
+    "type": "non-financial"
+  },
+  {
+    "id": 9,
+    "from": "noreply@uppcl.org",
+    "subject": "UPPCL Electricity Bill - January 2026",
+    "body": "Dear Consumer, your electricity bill for consumer account 1234567890 for the month of January 2026 has been generated. Units Consumed: 220 units. Bill Amount: Rs.1,320. Due Date: 15-01-2026. Please pay before the due date to avoid disconnection. Pay at uppcl.org, PayTM, or nearest collection center.",
+    "timestamp": "2026-01-07T12:00:00",
+    "type": "financial"
+  },
+  {
+    "id": 10,
+    "from": "info@netflix.com",
+    "subject": "Your Netflix membership renewed",
+    "body": "Hi Anshu, your Netflix Premium plan has been renewed successfully. Plan: Premium (4 screens, Ultra HD). Amount charged: Rs.649 to your card ending XX5678. Next renewal date: 20-02-2026. Enjoy unlimited streaming. If you have any questions, visit netflix.com/account.",
+    "timestamp": "2026-01-20T00:02:00",
+    "type": "financial"
+  },
+  {
+    "id": 11,
+    "from": "noreply@bookmyshow.com",
+    "subject": "Booking Confirmed - Pushpa 2 | PVR Logix Mall",
+    "body": "Hi Anshu! Your booking is confirmed. Movie: Pushpa 2: The Rule (Hindi). Date: 10-Jan-2026. Show Time: 6:30 PM. Cinema: PVR Logix Mall, Noida. Seats: F12, F13. Amount Paid: Rs.820. Booking ID: BMS2819034. Please carry a valid ID proof.",
+    "timestamp": "2026-01-09T14:20:00",
+    "type": "non-financial"
+  },
+  {
+    "id": 12,
+    "from": "alerts@groww.in",
+    "subject": "SIP Investment Successful - Nifty 50 Index Fund",
+    "body": "Dear Anshu, your SIP investment for January 2026 has been processed successfully. Fund: Nifty 50 Index Direct Growth. Amount Invested: Rs.500. Units Allotted: 0.312 units at NAV Rs.1,602.34. Total units held: 8.234. Your investment is growing. Keep it up!",
+    "timestamp": "2026-01-20T10:31:00",
+    "type": "financial"
+  },
+  {
+    "id": 13,
+    "from": "deals@myntra.com",
+    "subject": "End of Reason Sale - Up to 80% OFF starts now!",
+    "body": "Hey Anshu, the wait is over! Myntra's biggest sale of the year is LIVE. Up to 80% off on Nike, Adidas, Zara, H&M and 500+ more brands. Free delivery on orders above Rs.299. Sale ends midnight. Don't miss out! Shop now.",
+    "timestamp": "2026-01-03T09:00:00",
+    "type": "non-financial"
+  },
+  {
+    "id": 14,
+    "from": "noreply@paytm.com",
+    "subject": "Payment Successful - UPPCL Electricity Bill",
+    "body": "Dear Anshu, your electricity bill payment to UPPCL was successful. Amount Paid: Rs.1,320. Consumer Account: 1234567890. Transaction ID: PTM2026010834512. Date: 08-01-2026. Payment Method: Paytm Wallet + UPI. Keep this email for your records.",
+    "timestamp": "2026-01-08T10:30:00",
+    "type": "financial"
+  },
+  {
+    "id": 15,
+    "from": "noreply@amazon.in",
+    "subject": "Your Amazon order has been delivered",
+    "body": "Hi Anshu, great news! Your order has been delivered. Order #402-1234567-8901234. Items: boAt Bassheads 100 Wired Earphone. Delivered to: 42, Sector 18, Noida, UP. Delivered on: 18-Jan-2026 at 4:15 PM. Rate your experience and help other customers.",
+    "timestamp": "2026-01-18T16:00:00",
+    "type": "non-financial"
+  },
+  {
+    "id": 16,
+    "from": "noreply@airtel.in",
+    "subject": "Airtel Postpaid Bill - December 2025",
+    "body": "Dear Anshu, your Airtel postpaid bill for December 2025 is ready. Plan: Rs.499/month (Unlimited calls + 75GB data). Bill Amount: Rs.499. Due Date: 07-01-2026. Auto-pay is enabled. Amount will be deducted from your registered payment method. View full bill at airtel.in/myaccount.",
+    "timestamp": "2026-01-04T10:00:00",
+    "type": "financial"
+  },
+  {
+    "id": 17,
+    "from": "support@uber.com",
+    "subject": "Your Tuesday morning trip receipt",
+    "body": "Hi Anshu, thanks for riding with Uber. Here's your trip summary. Date: 15-Jan-2026. From: Sector 18 Metro, Noida. To: Connaught Place, Delhi. Distance: 28.4 km. Trip fare: Rs.187. Payment: UPI (HDFC Bank). Driver: Ramesh Kumar (4.8 stars). Rate your trip.",
+    "timestamp": "2026-01-15T19:30:00",
+    "type": "non-financial"
+  },
+  {
+    "id": 18,
+    "from": "noreply@hdfcbank.com",
+    "subject": "HDFC Bank Salary Credit Alert - January 2026",
+    "body": "Dear Anshu Kumar, a salary credit of Rs.45,000.00 has been received in your HDFC Bank savings account XX1234 on 01-01-2026 via NEFT. Employer: TECHSOLUTIONS PVT LTD. Available Balance: Rs.52,340.18. This is an automated notification. Do not reply to this email.",
+    "timestamp": "2026-01-01T09:15:00",
+    "type": "financial"
+  },
+  {
+    "id": 19,
+    "from": "noreply@spotify.com",
+    "subject": "Your Spotify Premium receipt - January 2026",
+    "body": "Hi Anshu, your Spotify Premium subscription has been renewed. Plan: Individual. Amount: Rs.89/month. Charged to: Card ending XX5678. Date: 18-Jan-2026. Next billing date: 18-Feb-2026. Enjoy ad-free music, offline downloads and unlimited skips.",
+    "timestamp": "2026-01-18T00:02:00",
+    "type": "financial"
+  },
+  {
+    "id": 20,
+    "from": "noreply@flipkart.com",
+    "subject": "Republic Day Sale - Extra 10% off with HDFC cards!",
+    "body": "Hey Anshu! Republic Day Sale is here. Extra 10% instant discount on HDFC Bank debit and credit cards. Top deals: iPhone 15 at Rs.59,999. Samsung Galaxy S24 at Rs.54,999. LG 43\" Smart TV at Rs.28,999. Sale starts 26 Jan. Add to wishlist now!",
+    "timestamp": "2026-01-23T10:00:00",
+    "type": "non-financial"
+  },
+  {
+    "id": 21,
+    "from": "statements@hdfcbank.com",
+    "subject": "Your HDFC Bank Account Statement - December 2025",
+    "body": "Dear Anshu Kumar, please find attached your HDFC Bank savings account (XX1234) statement for December 2025. Opening Balance: Rs.18,400.00. Total Credits: Rs.52,300.00. Total Debits: Rs.44,890.00. Closing Balance: Rs.25,810.00. Please review and contact us for any discrepancies at 18002586161.",
+    "timestamp": "2026-01-02T08:00:00",
+    "type": "financial"
+  },
+  {
+    "id": 22,
+    "from": "noreply@bigbasket.com",
+    "subject": "Your BigBasket order has been delivered!",
+    "body": "Hi Anshu, your order has been delivered successfully! Order #BB192834012. Items: Amul Milk 1L x4, Tata Salt 1kg x2, Aashirvaad Atta 5kg, Fortune Sunflower Oil 1L, Fresh Vegetables Combo. Total: Rs.2,230. Delivered on: 27-Jan-2026. Rate your delivery.",
+    "timestamp": "2026-01-27T17:00:00",
+    "type": "non-financial"
+  },
+  {
+    "id": 23,
+    "from": "alerts@icicibank.com",
+    "subject": "LIC Premium Payment Confirmation",
+    "body": "Dear Anshu Kumar, your payment of Rs.8,500 towards LIC Policy No. 123456789 has been processed successfully on 29-01-2026 via NEFT from your ICICI Bank account. Transaction Reference: NEFT/2026012934512. Please retain this for your records.",
+    "timestamp": "2026-01-29T10:10:00",
+    "type": "financial"
+  },
+  {
+    "id": 24,
+    "from": "noreply@cred.club",
+    "subject": "CRED: Pay your credit card bill, earn 500 CRED coins",
+    "body": "Hey Anshu, your HDFC Credit Card bill of Rs.9,800 is due on 15 Jan. Pay via CRED and earn 500 coins. Redeem your coins for exclusive cashback, vouchers from Zomato, Myntra and more. CRED coins never expire. Pay now in 2 taps.",
+    "timestamp": "2026-01-06T10:00:00",
+    "type": "non-financial"
+  },
+  {
+    "id": 25,
+    "from": "noreply@bsnl.co.in",
+    "subject": "BSNL Broadband Bill - January 2026",
+    "body": "Dear Subscriber Anshu Kumar, your BSNL Bharat Fiber broadband bill for January 2026 has been generated. Account No: BSNL-UP-8834512. Plan: BB249 (50 Mbps unlimited). Bill Amount: Rs.699. Due Date: 10-01-2026. Pay via BSNL portal, UPI, or at your nearest BSNL office.",
+    "timestamp": "2026-01-02T10:30:00",
+    "type": "financial"
+  },
+  {
+    "id": 26,
+    "from": "hello@phonepe.com",
+    "subject": "Money received on PhonePe - Rs.3,500 from Amit Kumar",
+    "body": "Hi Anshu, you have received Rs.3,500 from Amit Kumar on PhonePe. UPI Reference No: 601600112233. Date: 23-Jan-2026. Time: 9:30 AM. The amount has been credited to your linked bank account HDFC XX1234. Check your bank for updated balance.",
+    "timestamp": "2026-01-23T09:31:00",
+    "type": "financial"
+  },
+  {
+    "id": 27,
+    "from": "noreply@makemytrip.com",
+    "subject": "Exclusive weekend getaway deals from Rs.999!",
+    "body": "Hi Anshu, planning a trip? We have amazing deals: Goa from Rs.2,499 (flights). Manali hotel packages from Rs.999/night. Rajasthan heritage tour from Rs.4,999. Use code WEEKEND20 for extra 20% off. Valid this weekend only. Book now!",
+    "timestamp": "2026-01-22T14:00:00",
+    "type": "non-financial"
+  },
+  {
+    "id": 28,
+    "from": "alerts@hdfcbank.com",
+    "subject": "Low Balance Alert - Account XX1234",
+    "body": "Dear Anshu Kumar, your HDFC Bank savings account XX1234 balance has fallen below the minimum required balance. Current Balance: Rs.2,278.18. Minimum Balance Required: Rs.5,000. Please add funds to avoid any non-maintenance charges. You can transfer funds via NetBanking, UPI, or visit your nearest branch.",
+    "timestamp": "2026-01-29T10:15:00",
+    "type": "financial"
+  },
+  {
+    "id": 29,
+    "from": "noreply@rapido.bike",
+    "subject": "Your Rapido ride receipt - 25 Jan 2026",
+    "body": "Hi Anshu! Thanks for riding with Rapido. Ride Summary: Date: 25-Jan-2026 | Time: 9:15 AM | From: Sector 62, Noida | To: Sector 18 Metro | Distance: 4.2 km | Fare: Rs.62 | Payment: UPI. See you on your next ride!",
+    "timestamp": "2026-01-25T09:20:00",
+    "type": "non-financial"
+  },
+  {
+    "id": 30,
+    "from": "noreply@groww.in",
+    "subject": "Your Groww portfolio update - January 2026",
+    "body": "Hi Anshu, here's your monthly portfolio update. Total Invested: Rs.6,000. Current Value: Rs.6,842.34. Total Returns: Rs.842.34 (14.04% XIRR). Best Performer: Nifty 50 Index Fund (+18.2%). Your SIP is active and running. Keep investing every month to build long-term wealth.",
+    "timestamp": "2026-01-31T09:00:00",
+    "type": "financial"
+  },
+  {
+    "id": 31,
+    "from": "noreply@swiggy.in",
+    "subject": "Swiggy Instamart - Your groceries are on the way!",
+    "body": "Hi Anshu, your Swiggy Instamart order #SW2031198 is out for delivery. Items: Amul Butter 100g, Eggs x12, Bread, Maggi x4, Aashirvaad Atta 1kg. Total: Rs.1,140. Arriving in 10 minutes. Track in app.",
+    "timestamp": "2026-01-21T19:10:00",
+    "type": "non-financial"
+  },
+  {
+    "id": 32,
+    "from": "noreply@hdfcbank.com",
+    "subject": "HDFC Bank Credit Card Statement - January 2026",
+    "body": "Dear Anshu, your HDFC Bank Credit Card XX5678 statement for January 2026 is now ready. Total Amount Due: Rs.7,200.00. Minimum Amount Due: Rs.720.00. Payment Due Date: 15-02-2026. Transactions this month: 12. To view your full statement, log in to NetBanking or the HDFC Bank app.",
+    "timestamp": "2026-01-25T08:00:00",
+    "type": "financial"
+  },
+  {
+    "id": 33,
+    "from": "offers@bajajfinserv.in",
+    "subject": "Pre-approved EMI Card offer for Anshu Kumar",
+    "body": "Congratulations Anshu! You have a pre-approved Bajaj Finserv EMI card offer. Credit limit: up to Rs.2,00,000. 0% EMI on 1 million+ products. No cost EMI at Amazon, Flipkart, and 1.5 lakh+ stores. Apply in 2 minutes at bajajfinserv.in. No income documents needed.",
+    "timestamp": "2026-01-09T09:00:00",
+    "type": "non-financial"
+  },
+  {
+    "id": 34,
+    "from": "noreply@sbi.co.in",
+    "subject": "EMI Payment Received - Home Loan Account XXXXX6789",
+    "body": "Dear Customer Anshu Kumar, your Home Loan EMI payment of Rs.12,400 has been received on 15-01-2026. Loan Account: XXXXX6789. Principal Component: Rs.3,200. Interest Component: Rs.9,200. Outstanding Principal: Rs.8,24,600. Next EMI Due: 15-02-2026. Thank you for timely payment.",
+    "timestamp": "2026-01-15T08:05:00",
+    "type": "financial"
+  },
+  {
+    "id": 35,
+    "from": "noreply@zomato.com",
+    "subject": "Your Zomato order from Domino's is confirmed!",
+    "body": "Hi Anshu! Your order has been placed. Order #ZM4492018 from Domino's Pizza, Sector 18 Noida. Items: Farmhouse Pizza (Medium), Garlic Bread, Pepsi 250ml. Total: Rs.650. Estimated delivery: 35-40 minutes. Tracking link: zoma.to/track/ZM4492018",
+    "timestamp": "2026-01-05T20:15:00",
+    "type": "non-financial"
+  },
+  {
+    "id": 36,
+    "from": "noreply@licmail.com",
+    "subject": "LIC Premium Receipt - Policy 123456789",
+    "body": "Dear Anshu Kumar, this is to confirm receipt of your premium payment. Policy Number: 123456789. Plan: Jeevan Anand (Table 815). Premium Paid: Rs.8,500. Date of Payment: 29-01-2026. Mode: NEFT. Next Premium Due Date: 29-04-2026. Your policy is active. Thank you.",
+    "timestamp": "2026-01-29T10:10:00",
+    "type": "financial"
+  },
+  {
+    "id": 37,
+    "from": "noreply@amazon.in",
+    "subject": "Your order has been shipped!",
+    "body": "Hi Anshu, good news! Your Amazon order #402-9876543-2109876 has been shipped. Item: boAt Airdopes 141 True Wireless Earbuds. Shipped via DTDC Courier. Tracking ID: DTDC123456789. Expected delivery: 05-Feb-2026. Track your package on Amazon or DTDC website.",
+    "timestamp": "2026-02-04T14:00:00",
+    "type": "non-financial"
+  },
+  {
+    "id": 38,
+    "from": "alerts@hdfcbank.com",
+    "subject": "HDFC Bank Salary Credit - February 2026",
+    "body": "Dear Anshu Kumar, a salary credit of Rs.45,000.00 has been received in your HDFC Bank savings account XX1234 on 01-02-2026 via NEFT. Employer: TECHSOLUTIONS PVT LTD. Available Balance: Rs.47,598.18. This is an automated notification. For queries, call 18002586161.",
+    "timestamp": "2026-02-01T09:12:00",
+    "type": "financial"
+  },
+  {
+    "id": 39,
+    "from": "support@byju.com",
+    "subject": "Start your free 15-day trial with BYJU'S today",
+    "body": "Hi Anshu, is your child struggling with Maths or Science? BYJU'S adaptive learning program has helped 10 crore+ students. Start a FREE 15-day trial today. No credit card required. Personalized lessons, live classes, doubt-solving sessions. Call us: 1800-572-1099.",
+    "timestamp": "2026-01-27T09:00:00",
+    "type": "non-financial"
+  },
+  {
+    "id": 40,
+    "from": "noreply@uppcl.org",
+    "subject": "UPPCL Bill Payment Confirmation - February 2026",
+    "body": "Dear Consumer Anshu Kumar, your electricity bill payment has been received. Consumer Account: 1234567890. Amount Paid: Rs.1,180. Payment Date: 08-02-2026. Transaction ID: UPPCL20260208991. Mode: Online (Paytm). Bill period: January 2026. Your account is now clear.",
+    "timestamp": "2026-02-08T10:10:00",
+    "type": "financial"
+  },
+  {
+    "id": 41,
+    "from": "deals@nykaa.com",
+    "subject": "Nykaa Sale: 50% off on skincare + FREE gift on orders above Rs.999",
+    "body": "Hey Anshu! Nykaa's biggest beauty sale is here. Get up to 50% off on Lakme, Maybelline, The Ordinary, and 2000+ more brands. FREE gift on orders above Rs.999. New arrivals in K-Beauty. Plus free shipping on all orders. Shop now!",
+    "timestamp": "2026-01-12T10:00:00",
+    "type": "non-financial"
+  },
+  {
+    "id": 42,
+    "from": "noreply@bsnl.co.in",
+    "subject": "BSNL Broadband Bill Payment Confirmed - February 2026",
+    "body": "Dear Anshu Kumar, your BSNL broadband bill payment has been received. Account No: BSNL-UP-8834512. Amount Paid: Rs.699. Payment Date: 10-02-2026. Reference: BSNLPAY20260210445. Your broadband service is active. Thank you for timely payment.",
+    "timestamp": "2026-02-10T09:35:00",
+    "type": "financial"
+  },
+  {
+    "id": 43,
+    "from": "noreply@uber.com",
+    "subject": "Rs.187 charged for your Uber trip",
+    "body": "Hi Anshu, here's your trip receipt. Date: 15 Jan 2026. Pickup: Sector 18 Metro Station, Noida. Drop: Connaught Place, New Delhi. Trip distance: 28.4 km. Trip time: 52 min. Base fare: Rs.150. Surge: Rs.37. Total: Rs.187. Charged to UPI. Have a great day!",
+    "timestamp": "2026-01-15T19:35:00",
+    "type": "non-financial"
+  },
+  {
+    "id": 44,
+    "from": "noreply@hdfcbank.com",
+    "subject": "HDFC Bank Credit Card Auto-Debit Notification",
+    "body": "Dear Anshu Kumar, as per your standing instruction, an amount of Rs.7,200.00 will be auto-debited from your savings account XX1234 towards your Credit Card XX5678 on 15-02-2026. Please ensure sufficient balance. To cancel or modify, log in to NetBanking.",
+    "timestamp": "2026-02-12T09:00:00",
+    "type": "financial"
+  },
+  {
+    "id": 45,
+    "from": "hello@zerodha.com",
+    "subject": "Open your Zerodha account and get Rs.500 brokerage credit",
+    "body": "Hi Anshu, markets are at an all-time high! Start investing today with Zerodha — India's largest stockbroker. Free equity delivery trades. Flat Rs.20 per F&O trade. Open your free Demat account in 10 minutes. Get Rs.500 brokerage credit on first trade. zerodha.com",
+    "timestamp": "2026-01-13T09:00:00",
+    "type": "non-financial"
+  },
+  {
+    "id": 46,
+    "from": "noreply@airtel.in",
+    "subject": "Airtel Postpaid Bill Paid - January 2026",
+    "body": "Dear Anshu, your Airtel postpaid bill for January 2026 has been paid successfully. Amount: Rs.499. Payment Date: 03-02-2026. Payment Method: UPI (HDFC Bank XX1234). Transaction ID: AIRTEL20260203871. Your account is active. Thank you.",
+    "timestamp": "2026-02-03T11:22:00",
+    "type": "financial"
+  },
+  {
+    "id": 47,
+    "from": "noreply@amazon.in",
+    "subject": "Valentine's Day gift ideas for your loved ones",
+    "body": "Hi Anshu, make this Valentine's Day special! Shop from our exclusive Valentine's collection: Personalized gifts from Rs.299. Flower bouquets delivered in 2 hours. Chocolates & hampers from Rs.499. Jewellery from Rs.999. Order by 13 Feb for Valentine's Day delivery.",
+    "timestamp": "2026-02-09T09:00:00",
+    "type": "non-financial"
+  },
+  {
+    "id": 48,
+    "from": "alerts@hdfcbank.com",
+    "subject": "Transaction Alert - UPI Debit from A/c XX1234",
+    "body": "Dear Anshu Kumar, a UPI debit of Rs.1,899.00 has been made from your HDFC Bank account XX1234 on 12-01-2026. Payee: AMAZON SELLER SERVICES PVT LTD. UPI Ref: HDFC20260112998. Available Balance: Rs.42,284.18. If this was not done by you, please call 18002586161 immediately.",
+    "timestamp": "2026-01-12T16:31:00",
+    "type": "financial"
+  },
+  {
+    "id": 49,
+    "from": "noreply@medplus.in",
+    "subject": "MedPlus Order Delivered - Invoice #MP2026012601",
+    "body": "Dear Anshu, your MedPlus order has been delivered to your address. Order #MP2026012601. Items: Crocin Advance 500mg x2, Allegra 120mg x10, Multivitamin tablets x30, Hand Sanitizer 500ml. Total: Rs.1,500. If any item is missing, contact us within 24 hours.",
+    "timestamp": "2026-01-26T12:35:00",
+    "type": "non-financial"
+  },
+  {
+    "id": 50,
+    "from": "noreply@hdfcbank.com",
+    "subject": "Home Loan EMI Debit - February 2026",
+    "body": "Dear Anshu Kumar, your SBI Home Loan EMI of Rs.12,400.00 has been debited from your HDFC Bank account XX1234 on 15-02-2026 as per standing instructions. Available Balance after debit: Rs.28,419.18. EMI successfully transferred to SBI Home Loan Account XXXXX6789.",
+    "timestamp": "2026-02-15T08:01:00",
+    "type": "financial"
+  },
+  {
+    "id": 51,
+    "from": "hello@phonepe.com",
+    "subject": "PhonePe: Earn cashback on your next 3 payments",
+    "body": "Hi Anshu, exciting offer! Earn up to Rs.200 cashback on your next 3 UPI payments via PhonePe. Pay any bill, recharge, or merchant — cashback credited within 24 hours. Offer valid till 31 Jan 2026. Terms & conditions apply. Tap to activate offer.",
+    "timestamp": "2026-01-29T11:00:00",
+    "type": "non-financial"
+  },
+  {
+    "id": 52,
+    "from": "noreply@paytm.com",
+    "subject": "BSNL Broadband Bill Payment Successful",
+    "body": "Hi Anshu, your bill payment was successful! Biller: BSNL Broadband (UP). Consumer No: BSNL-UP-8834512. Amount: Rs.699. Date: 10-01-2026. Paytm Transaction ID: PTM20260110551. Payment Source: HDFC Bank UPI. Estimated processing time: 1-2 working days.",
+    "timestamp": "2026-01-10T09:06:00",
+    "type": "financial"
+  },
+  {
+    "id": 53,
+    "from": "updates@lenskart.com",
+    "subject": "Buy 1 Get 1 FREE on all eyeglasses this week!",
+    "body": "Hi Anshu, your eyes deserve the best! This week only: Buy 1 Get 1 FREE on all prescription eyeglasses and sunglasses. 5000+ frame styles. Free home trial - try 5 frames at home, return what you don't like. Free shipping + free lens upgrade. Use code LENS50.",
+    "timestamp": "2026-01-20T10:00:00",
+    "type": "non-financial"
+  },
+  {
+    "id": 54,
+    "from": "alerts@hdfcbank.com",
+    "subject": "Transaction Alert - Airtel Mobile Recharge",
+    "body": "Dear Anshu Kumar, a UPI payment of Rs.299.00 has been debited from your HDFC Bank account XX1234 on 22-01-2026. Payee: AIRTEL. Reference: RECHARGE/AIRTEL/22012026. UPI Ref: HDFC202601221102. Available Balance: Rs.12,020.18. For queries, call 18002586161.",
+    "timestamp": "2026-01-22T12:02:00",
+    "type": "financial"
+  },
+  {
+    "id": 55,
+    "from": "noreply@swiggy.in",
+    "subject": "Swiggy: Order delivered from Burger King",
+    "body": "Hi Anshu, your Swiggy order has been delivered! Order #SW9912834 from Burger King, Sector 18 Noida. Items: Whopper Meal, Cheesy Veg Wrap, Pepsi. Total: Rs.310. Delivered at 8:58 PM. Enjoy your meal! Rate your experience to help us improve.",
+    "timestamp": "2026-02-06T20:58:00",
+    "type": "non-financial"
+  },
+  {
+    "id": 56,
+    "from": "noreply@sbi.co.in",
+    "subject": "SBI Home Loan EMI Reminder - February 2026",
+    "body": "Dear Anshu Kumar, this is a reminder that your SBI Home Loan EMI of Rs.12,400 is due on 15-02-2026. Loan Account: XXXXX6789. Please ensure sufficient funds in your linked account HDFC XX1234. Late payment charges of Rs.500 + taxes will apply if paid after due date.",
+    "timestamp": "2026-02-07T10:00:00",
+    "type": "financial"
+  },
+  {
+    "id": 57,
+    "from": "hello@cred.club",
+    "subject": "CRED Coins expiring soon - redeem now!",
+    "body": "Hi Anshu, you have 1,250 CRED coins that will expire in 30 days. Redeem them for: Rs.150 Zomato voucher (900 coins), Rs.200 Myntra voucher (1,200 coins), Free Swiggy delivery pass (600 coins). Don't let your rewards go to waste. Redeem now on CRED app.",
+    "timestamp": "2026-02-05T10:00:00",
+    "type": "non-financial"
+  },
+  {
+    "id": 58,
+    "from": "noreply@hdfcbank.com",
+    "subject": "Bank Charges Debited - Non-Maintenance of Minimum Balance",
+    "body": "Dear Anshu Kumar, a charge of Rs.295 has been debited from your HDFC Bank account XX1234 on 31-01-2026 towards non-maintenance of minimum monthly average balance for January 2026. Required average balance: Rs.10,000. Maintained balance: Rs.6,240. Reference: HDFC/FEE/JAN2026.",
+    "timestamp": "2026-01-31T10:00:00",
+    "type": "financial"
+  },
+  {
+    "id": 59,
+    "from": "noreply@rapido.bike",
+    "subject": "Earn free rides with Rapido — refer your friends!",
+    "body": "Hi Anshu, ride more, pay less! Refer a friend to Rapido and both of you get 2 free rides. Your referral code: ANSHU2026. Share with friends and family. Each successful referral = Rs.50 Rapido cash for you. No limit on referrals. Start referring now!",
+    "timestamp": "2026-01-26T10:00:00",
+    "type": "non-financial"
+  },
+  {
+    "id": 60,
+    "from": "noreply@hdfcbank.com",
+    "subject": "UPI Transaction Alert - Grocery Payment",
+    "body": "Dear Anshu Kumar, a UPI payment of Rs.750.00 has been debited from your HDFC Bank account XX1234 on 24-01-2026. Payee: DMART RETAIL PVT LTD. UPI Ref: HDFC20260124872. Available Balance: Rs.14,770.18. If not done by you, call 18002586161 immediately.",
+    "timestamp": "2026-01-24T11:46:00",
+    "type": "financial"
+  },
+  {
+    "id": 61,
+    "from": "team@dunzo.com",
+    "subject": "Get your groceries in 19 minutes with Dunzo!",
+    "body": "Hi Anshu, tired of going to the store? Dunzo delivers groceries, medicines, and household essentials in under 20 minutes. First order FREE (up to Rs.150 off). Download Dunzo now and use code FIRSTFREE. Available in your area: Sector 18, Noida.",
+    "timestamp": "2026-01-30T20:00:00",
+    "type": "non-financial"
+  },
+  {
+    "id": 62,
+    "from": "alerts@hdfcbank.com",
+    "subject": "SBI Home Loan EMI Debited - January 2026",
+    "body": "Dear Anshu Kumar, your SBI Home Loan EMI of Rs.12,400.00 has been debited from HDFC Bank account XX1234 on 15-01-2026 via standing instruction. UPI Ref: HDFC20260115001. Remaining Balance: Rs.20,084.18. EMI has been credited to SBI Home Loan Account XXXXX6789.",
+    "timestamp": "2026-01-15T08:01:00",
+    "type": "financial"
+  },
+  {
+    "id": 63,
+    "from": "noreply@bookmyshow.com",
+    "subject": "Rate your movie experience at PVR Logix Mall",
+    "body": "Hi Anshu, hope you enjoyed Pushpa 2: The Rule at PVR Logix Mall! How was your experience? Rate the movie, the sound, the screen quality, and the food. Your feedback helps us improve. Plus, get 50 BMS points for submitting your review. Rate now!",
+    "timestamp": "2026-01-10T22:00:00",
+    "type": "non-financial"
+  },
+  {
+    "id": 64,
+    "from": "noreply@sbi.co.in",
+    "subject": "SBI YONO: Track your home loan details",
+    "body": "Dear Anshu Kumar, here are your Home Loan details as of 15-01-2026. Loan Account: XXXXX6789. Sanctioned Amount: Rs.30,00,000. EMI Amount: Rs.12,400. Tenure Remaining: 67 months. Principal Paid till date: Rs.5,75,400. Interest Paid till date: Rs.8,49,600. View full schedule on YONO.",
+    "timestamp": "2026-01-15T09:00:00",
+    "type": "financial"
+  },
+  {
+    "id": 65,
+    "from": "noreply@irctc.co.in",
+    "subject": "IRCTC: Journey reminder for tomorrow - PNR 4521896730",
+    "body": "Dear Anshu Kumar, this is a reminder for your upcoming train journey. PNR: 4521896730. Train: 12951 Mumbai Rajdhani. Departure: 15-Jan-2026 at 4:55 PM from NDLS (Platform 9). Arrival: 16-Jan-2026 at 8:35 AM at MMCT. Chart preparation: Done. Current Status: Confirmed.",
+    "timestamp": "2026-01-14T10:00:00",
+    "type": "non-financial"
+  },
+  {
+    "id": 66,
+    "from": "alerts@hdfcbank.com",
+    "subject": "Credit Card Payment Due Reminder - XX5678",
+    "body": "Dear Anshu Kumar, this is a reminder that your HDFC Credit Card XX5678 payment of Rs.7,200.00 is due on 15-02-2026. Minimum amount due: Rs.720.00. To avoid late payment charges and interest, please pay the total amount due. Pay now via NetBanking, UPI, or CRED.",
+    "timestamp": "2026-02-10T09:00:00",
+    "type": "financial"
+  },
+  {
+    "id": 67,
+    "from": "offers@policybazaar.com",
+    "subject": "Your car insurance expires in 30 days - Renew now & save up to 70%",
+    "body": "Hi Anshu, your car insurance (HR 26 XX 1234) expires on 28-Feb-2026. Don't wait till the last minute! Compare 20+ insurers on PolicyBazaar and save up to 70%. Instant policy online. No paperwork. Zero depreciation add-on from Rs.999 extra. Get quotes now!",
+    "timestamp": "2026-01-10T11:00:00",
+    "type": "non-financial"
+  },
+  {
+    "id": 68,
+    "from": "noreply@hdfcbank.com",
+    "subject": "Google Pay UPI Receipt - Rs.500 from Rahul Sharma",
+    "body": "Dear Anshu Kumar, you have received Rs.500.00 in your HDFC Bank account XX1234 on 08-01-2026 via UPI. Sender: Rahul Sharma. UPI Reference: 302600812345. Remark: Dinner split. Available Balance: Rs.46,372.18. Transaction time: 6:44 PM.",
+    "timestamp": "2026-01-08T18:45:00",
+    "type": "financial"
+  },
+  {
+    "id": 69,
+    "from": "support@zomato.com",
+    "subject": "Zomato: 40% off on your next 3 orders — exclusive for you!",
+    "body": "Hey Anshu, we miss you! It's been a while since your last order. Come back and enjoy 40% off on your next 3 orders (max discount Rs.120 per order). Valid on orders above Rs.299. Offer expires in 48 hours. No code needed — discount applied automatically. Order now!",
+    "timestamp": "2026-02-08T12:00:00",
+    "type": "non-financial"
+  },
+  {
+    "id": 70,
+    "from": "noreply@hdfcbank.com",
+    "subject": "Netflix Subscription Charged - Rs.649",
+    "body": "Dear Anshu Kumar, a charge of Rs.649.00 has been debited from your HDFC Credit Card XX5678 on 20-01-2026. Merchant: NETFLIX INTERNATIONAL B.V. Description: Monthly subscription - Premium Plan. Available Credit Limit: Rs.1,49,351. For disputes, call 18002586161.",
+    "timestamp": "2026-01-20T00:03:00",
+    "type": "financial"
+  },
+  {
+    "id": 71,
+    "from": "noreply@flipkart.com",
+    "subject": "Your Flipkart order is out for delivery today!",
+    "body": "Hi Anshu, great news! Your Flipkart order OD234567890123 is out for delivery today. Item: Redmi 12 Back Cover (Pack of 3). Expected delivery: By 7 PM today. Delivery partner: Ekart Logistics. Tracking ID: FMPC1234567890. Someone will call before delivery.",
+    "timestamp": "2026-01-17T10:00:00",
+    "type": "non-financial"
+  },
+  {
+    "id": 72,
+    "from": "alerts@hdfcbank.com",
+    "subject": "Transaction Alert - Medplus Pharmacy Payment",
+    "body": "Dear Anshu Kumar, a UPI payment of Rs.1,500.00 has been debited from your HDFC Bank account XX1234 on 26-01-2026. Payee: MEDPLUS HEALTH SERVICES PVT LTD. UPI Reference: HDFC20260126773. Available Balance: Rs.13,208.18. If not initiated by you, please contact us immediately.",
+    "timestamp": "2026-01-26T12:31:00",
+    "type": "financial"
+  },
+  {
+    "id": 73,
+    "from": "news@upstox.com",
+    "subject": "Markets hit all-time high! Start investing today",
+    "body": "Hi Anshu, Nifty 50 just crossed 24,000! It's never too late to start investing. Open a free Demat account with Upstox in 5 minutes. Zero account opening charges. Flat Rs.20/trade for F&O. Get Rs.500 brokerage voucher on first trade. Join 1 crore+ investors. Open account now.",
+    "timestamp": "2026-02-02T09:00:00",
+    "type": "non-financial"
+  },
+  {
+    "id": 74,
+    "from": "noreply@hdfcbank.com",
+    "subject": "Flipkart Purchase - Rs.3,200 Charged to Account",
+    "body": "Dear Anshu Kumar, a UPI debit of Rs.3,200.00 has been made from your HDFC Bank account XX1234 on 16-01-2026. Payee: FLIPKART INTERNET PVT LTD. UPI Reference: HDFC20260116204. Available Balance: Rs.16,697.18. Charge corresponds to your recent Flipkart purchase.",
+    "timestamp": "2026-01-16T14:23:00",
+    "type": "financial"
+  },
+  {
+    "id": 75,
+    "from": "noreply@spotify.com",
+    "subject": "Discover Weekly is ready — your personalized playlist for this week",
+    "body": "Hi Anshu, your Discover Weekly playlist is here! We picked 30 songs based on your listening history this week. Highlights: Arijit Singh - Tere Hawaale, AP Dhillon - With You, Pritam - Kesariya. Plus new releases from your followed artists. Listen now on Spotify.",
+    "timestamp": "2026-01-19T08:00:00",
+    "type": "non-financial"
+  }
+]
