@@ -1,31 +1,88 @@
+# ==========================================
+# BACKEND .gitignore
+# ==========================================
+
 # Dependencies
 node_modules/
 package-lock.json
+yarn.lock
+pnpm-lock.yaml
 
 # Environment variables
 .env
 .env.local
+.env.development
 .env.production
+.env.test
+*.env
+
+# Keep example env
+!.env.example
 
 # Logs
 logs/
 *.log
 npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
 
 # OS files
 .DS_Store
 Thumbs.db
+._*
 
 # IDE files
 .vscode/
 .idea/
 *.swp
 *.swo
+*.sublime-project
+*.sublime-workspace
 
 # Build files
 dist/
 build/
+out/
 
 # Testing
 coverage/
 .nyc_output/
+.cache/
+.mocha/
+test-results/
+
+# Debug
+debug.log
+npm-debug.log*
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+
+# Uploads (if you have file upload functionality)
+uploads/
+temp-uploads/
+
+# Session store
+sessions/
+
+# SSL Certificates (for local development)
+*.pem
+*.key
+*.crt
+
+# Backup files
+*.bak
+backup/
+
+# Cache
+.cache/
+.eslintcache
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+*.temp

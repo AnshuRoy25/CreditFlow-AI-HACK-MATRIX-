@@ -1,32 +1,50 @@
+# ==========================================
+# ROOT .gitignore - CreditFlow Project
+# ==========================================
+
 # Dependencies
 node_modules/
 venv/
 env/
 ENV/
+.venv/
 
 # Environment files
 .env
 .env.local
+.env.development
 .env.production
 *.env
+
+# Keep example env files
+!.env.example
+!**/.env.example
 
 # Logs
 logs/
 *.log
 npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
 
 # OS files
 .DS_Store
-Thumbs.db
 .DS_Store?
+Thumbs.db
+*.swp
+*.swo
+*~
 
 # IDE files
 .vscode/
 .idea/
-*.swp
-*.swo
 *.sublime-project
 *.sublime-workspace
+.project
+.classpath
+.settings/
 
 # Python
 __pycache__/
@@ -34,23 +52,60 @@ __pycache__/
 *$py.class
 *.so
 .Python
+*.pyc
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.hypothesis/
 
 # Build files
 dist/
 build/
 *.egg-info/
+out/
 
 # Testing
 coverage/
 .nyc_output/
-.pytest_cache/
+.cache/
 
 # Jupyter Notebooks
 .ipynb_checkpoints/
+*.ipynb_checkpoints
 
-# Lock files (keep package-lock.json commented out if you want to commit it)
-# package-lock.json
+# Machine Learning models (optional - uncomment if you don't want to track them)
+# *.pkl
+# *.h5
+# *.pth
+# *.pt
 
 # Temporary files
 *.tmp
 *.temp
+.temp/
+temp/
+
+# Database files (if applicable)
+*.db
+*.sqlite
+*.sqlite3
+
+# Vercel
+.vercel
+
+# Next.js (if applicable)
+.next/
+
+# Mac files
+._*
+
+# Windows files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Package lock files (uncomment if you want to ignore them)
+# package-lock.json
+# yarn.lock
+# pnpm-lock.yaml
